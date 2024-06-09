@@ -9,7 +9,7 @@
             <password>${env.CODEARTIFACT_AUTH_TOKEN}</password>
         </server>
   </servers>
-<profiles>
+<profiles> 
   <profile>
     <id>default</id>
     <repositories>

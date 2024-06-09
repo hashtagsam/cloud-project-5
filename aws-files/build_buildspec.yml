@@ -3,7 +3,7 @@ version: 0.2
   #parameter-store:
     #CODEARTIFACT_AUTH_TOKEN: CODEARTIFACT_AUTH_TOKEN
 phases:
-  install:
+  install: 
     runtime-versions:
       java: corretto11
     commands:
